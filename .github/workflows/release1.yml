@@ -1,4 +1,4 @@
-temname: release
+name: release
 
 on:
   push:

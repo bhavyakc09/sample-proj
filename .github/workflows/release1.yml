@@ -1,4 +1,4 @@
-temname: Release Drafter
+temname: Releasoe
 
 on:
   push:

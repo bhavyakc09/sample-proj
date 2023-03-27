@@ -1,8 +1,8 @@
-## Welcome to Thirty Minutes to Merge
+## Welcome to sample proj [pull and merge] 
 
 A project based learning activity for people who are getting started with branching with Git.
 
-You can play the game at:  https://aaugustine.github.io/thirty-minutes-to-merge/
+You can play the game at:  https://bhavyakc09.github.io/sample-proj/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
